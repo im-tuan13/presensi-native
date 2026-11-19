@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aplikasi Presensi Karyawan Berbasis GPS Geofencing (PHP Native)
 
 Aplikasi web presensi (kehadiran) karyawan berbasis GPS Geofencing tanpa framework (Pure PHP 8.0+ & MySQLi Prepared Statements), dirancang *mobile-first* menggunakan Bootstrap 5.3 CDN dan Vanilla JavaScript.
@@ -96,3 +97,6 @@ Jika Anda sedang menguji di komputer desktop/laptop yang berada di luar lokasi k
        - Latitude: `-6.19500000`
        - Longitude: `106.82300000`
      - Alert di layar seketika berubah menjadi **merah (Di luar area kantor - Jarak ~2.2 km)** dan tombol presensi terkunci rapat! 
+=======
+# presensi-native
+>>>>>>> 109bb0585875578c9b2cf23e1ab65d9df010edbb
